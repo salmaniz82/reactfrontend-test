@@ -12,7 +12,7 @@
 
 1. haven't muched focused on the UI
 2. used tailwindcss for minmal styling
-3. tried acheived as much as I can in 2 hours
+3. tried acheived as much as I can in 2.5 hours
 4. for single detail route usually there is a dedicated api endpoint which can be used to fetch details
    but there was only a single route, so I decided to used context for setting on the listing and reading the context on the detail page this way every time user clicks on propery item details gets changed and
    objective is acheived. also used hook for easy quick context consumption.
@@ -23,7 +23,8 @@
 
 ## how to run on local environment
 
-clone the respository cd into folder
+clone the respository : https://github.com/salmaniz82/reactfrontend-test.git
+cd reactfrontend-test
 npm install : this will install all the dependencies required
 npm run dev : this will spin the development server
 app will be serving at : http://localhost:5173/
