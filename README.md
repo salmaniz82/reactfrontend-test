@@ -20,6 +20,8 @@
 6. routes for pages can also be organized in pages folder.
 7. External state manager library such as zushtand or redux would be an overkill for this.
 8. kept component clean and modulular for maintainability and code readability.
+9. Time consumed : 2.5hrs
+10. Rating : 6/10
 
 ## how to run on local environment
 
